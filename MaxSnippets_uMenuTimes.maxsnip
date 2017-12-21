@@ -1,0 +1,47 @@
+{
+	"patcher" : 	{
+		"boxes" : [ 			{
+				"box" : 				{
+					"maxclass" : "live.menu",
+					"varname" : "live.menu",
+					"numoutlets" : 3,
+					"id" : "obj-78",
+					"patching_rect" : [ 10.0, 10.0, 89.0, 15.0 ],
+					"outlettype" : [ "", "", "float" ],
+					"numinlets" : 1,
+					"parameter_enable" : 1,
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "live.menu",
+							"parameter_shortname" : "live.menu",
+							"parameter_type" : 2,
+							"parameter_enum" : [ "1n", "2n", "4n", "8n", "16n", "32n", "64n", "128n" ]
+						}
+
+					}
+
+				}
+
+			}
+ ],
+		"appversion" : 		{
+			"major" : 7,
+			"minor" : 3,
+			"revision" : 4,
+			"architecture" : "x64",
+			"modernui" : 1
+		}
+,
+		"description" : "89 x 15, containing 1 object",
+		"tags" : "m4l",
+		"snippetinfo" : 		{
+			"name" : "MaxSnippets_uMenuTimes",
+			"objects" : "live.menu",
+			"tags" : "m4l",
+			"description" : "89 x 15, containing 1 object",
+			"image" : "iVBORw0KGgoAAAANSUhEUgAAAFkAAAAPCAYAAACP3GNFAAAABHNCSVQICAgIfAhkiAAAAXtJREFUWIXtmLFLw0AYxV9CTDq0roZQChVERadz0X8itP0LgquIw+0iOCmmoKBDkS4iglQsgtC9nTsEBaeCKCEUKbYGOpS2bqEhCRRtU9reb7v33cHj3cdxdxwhpA/GWBEAQNf1SfuYWSil4CdtYh7wDbndbqNWew/by8ziG/LFZR4H9DBsLzOLMDhoNls4Os7i5fUNkYjk6KZpQZIk9Ho9fHya2NxYhSiKoZudVlwhNxrfWE4msLO9hZvbgqNnz3No/djodDqo17+wvraCs5P57HTLslAsFiHLcmA9lUq56q6Qk8kE9vd28fD47Fm8IAjIXZ3ivvCE6/zdiK1PD7IsQ1EUxONxRKNRV822bfA879mAoW8XirIEAFiMxdDtdkdgd3pRVRWGYXh0wzCgqqpHHzpknme3vUE0TUO5XHbGlUoFmqb5zhV8VcZQZDIZlEolAEA6nQ6cxxFC+uzF93eq1SoAgBDiW6eUsk7+L0HhDsIO2hDg2C/c+PkFA9pk2+BLgNEAAAAASUVORK5CYII="
+		}
+
+	}
+
+}
