@@ -1,0 +1,111 @@
+{
+	"pattrstorage" : 	{
+		"name" : "grandparent_pattr",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"grandparent_num1" : [ 0 ],
+					"grandparent_num2" : [ 21 ],
+					"bpatcher2" : [  ],
+					"bpatcher2::1147_brcosa" : [ -1 ],
+					"bpatcher2::2line::lineEnd" : [ 0.0 ],
+					"bpatcher2::2line::lineStart" : [ 0.0 ],
+					"bpatcher2::2line::lineTime" : [ 0.0 ],
+					"bpatcher2::2line::1150_brcosa" : [ -1 ],
+					"bpatcher2::2line[1]::lineEnd" : [ 0.0 ],
+					"bpatcher2::2line[1]::lineStart" : [ 0.0 ],
+					"bpatcher2::2line[1]::lineTime" : [ 0.0 ],
+					"bpatcher2::2line[1]::1149_brcosa" : [ -1 ],
+					"bpatcher2::2line[2]::lineEnd" : [ 0.0 ],
+					"bpatcher2::2line[2]::lineStart" : [ 0.0 ],
+					"bpatcher2::2line[2]::lineTime" : [ 0.0 ],
+					"bpatcher2::2line[2]::1148_brcosa" : [ -1 ],
+					"bpatcher1" : [  ],
+					"bpatcher1::1143_brcosa" : [ -1 ],
+					"bpatcher1::2line::lineEnd" : [ 0.0 ],
+					"bpatcher1::2line::lineStart" : [ 0.0 ],
+					"bpatcher1::2line::lineTime" : [ 0.0 ],
+					"bpatcher1::2line::1146_brcosa" : [ -1 ],
+					"bpatcher1::2line[1]::lineEnd" : [ 0.0 ],
+					"bpatcher1::2line[1]::lineStart" : [ 0.0 ],
+					"bpatcher1::2line[1]::lineTime" : [ 0.0 ],
+					"bpatcher1::2line[1]::1145_brcosa" : [ -1 ],
+					"bpatcher1::2line[2]::lineEnd" : [ 0.0 ],
+					"bpatcher1::2line[2]::lineStart" : [ 0.0 ],
+					"bpatcher1::2line[2]::lineTime" : [ 0.0 ],
+					"bpatcher1::2line[2]::1144_brcosa" : [ -1 ],
+					"bpatcher0" : [  ],
+					"bpatcher0::1139_brcosa" : [ -1 ],
+					"bpatcher0::2line::lineEnd" : [ 0.0 ],
+					"bpatcher0::2line::lineStart" : [ 0.0 ],
+					"bpatcher0::2line::lineTime" : [ 0.0 ],
+					"bpatcher0::2line::1142_brcosa" : [ -1 ],
+					"bpatcher0::2line[1]::lineEnd" : [ 0.0 ],
+					"bpatcher0::2line[1]::lineStart" : [ 0.0 ],
+					"bpatcher0::2line[1]::lineTime" : [ 0.0 ],
+					"bpatcher0::2line[1]::1141_brcosa" : [ -1 ],
+					"bpatcher0::2line[2]::lineEnd" : [ 0.0 ],
+					"bpatcher0::2line[2]::lineStart" : [ 0.0 ],
+					"bpatcher0::2line[2]::lineTime" : [ 0.0 ],
+					"bpatcher0::2line[2]::1140_brcosa" : [ -1 ]
+				}
+
+			}
+,
+			"666" : 			{
+				"id" : 666,
+				"data" : 				{
+					"grandparent_num1" : [ 0 ],
+					"grandparent_num2" : [ 21 ],
+					"bpatcher2" : [  ],
+					"bpatcher2::1147_brcosa" : [ -1 ],
+					"bpatcher2::2line::lineEnd" : [ 0.0 ],
+					"bpatcher2::2line::lineStart" : [ 666.0 ],
+					"bpatcher2::2line::lineTime" : [ 0.0 ],
+					"bpatcher2::2line::1150_brcosa" : [ -1 ],
+					"bpatcher2::2line[1]::lineEnd" : [ 666.0 ],
+					"bpatcher2::2line[1]::lineStart" : [ 0.0 ],
+					"bpatcher2::2line[1]::lineTime" : [ 0.0 ],
+					"bpatcher2::2line[1]::1149_brcosa" : [ -1 ],
+					"bpatcher2::2line[2]::lineEnd" : [ 0.0 ],
+					"bpatcher2::2line[2]::lineStart" : [ 0.0 ],
+					"bpatcher2::2line[2]::lineTime" : [ 666.0 ],
+					"bpatcher2::2line[2]::1148_brcosa" : [ -1 ],
+					"bpatcher1" : [  ],
+					"bpatcher1::1143_brcosa" : [ -1 ],
+					"bpatcher1::2line::lineEnd" : [ 0.0 ],
+					"bpatcher1::2line::lineStart" : [ 666.0 ],
+					"bpatcher1::2line::lineTime" : [ 0.0 ],
+					"bpatcher1::2line::1146_brcosa" : [ -1 ],
+					"bpatcher1::2line[1]::lineEnd" : [ 666.0 ],
+					"bpatcher1::2line[1]::lineStart" : [ 0.0 ],
+					"bpatcher1::2line[1]::lineTime" : [ 0.0 ],
+					"bpatcher1::2line[1]::1145_brcosa" : [ -1 ],
+					"bpatcher1::2line[2]::lineEnd" : [ 0.0 ],
+					"bpatcher1::2line[2]::lineStart" : [ 0.0 ],
+					"bpatcher1::2line[2]::lineTime" : [ 666.0 ],
+					"bpatcher1::2line[2]::1144_brcosa" : [ -1 ],
+					"bpatcher0" : [  ],
+					"bpatcher0::1139_brcosa" : [ -1 ],
+					"bpatcher0::2line::lineEnd" : [ 0.0 ],
+					"bpatcher0::2line::lineStart" : [ 666.0 ],
+					"bpatcher0::2line::lineTime" : [ 0.0 ],
+					"bpatcher0::2line::1142_brcosa" : [ -1 ],
+					"bpatcher0::2line[1]::lineEnd" : [ 666.0 ],
+					"bpatcher0::2line[1]::lineStart" : [ 0.0 ],
+					"bpatcher0::2line[1]::lineTime" : [ 0.0 ],
+					"bpatcher0::2line[1]::1141_brcosa" : [ -1 ],
+					"bpatcher0::2line[2]::lineEnd" : [ 0.0 ],
+					"bpatcher0::2line[2]::lineStart" : [ 0.0 ],
+					"bpatcher0::2line[2]::lineTime" : [ 666.0 ],
+					"bpatcher0::2line[2]::1140_brcosa" : [ -1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

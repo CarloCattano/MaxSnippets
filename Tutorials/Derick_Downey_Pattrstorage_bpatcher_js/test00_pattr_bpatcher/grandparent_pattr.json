@@ -1,0 +1,51 @@
+{
+	"pattrstorage" : 	{
+		"name" : "grandparent_pattr",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"grandparent_num1" : [ 0 ],
+					"grandparent_num2" : [ 0 ],
+					"1parent[0]::supparentnum1" : [ 0 ],
+					"1parent[0]::supparentnum2" : [ 0 ],
+					"1parent[0]::2child[0]::child_number0" : [ 0 ],
+					"1parent[0]::2child[0]::child_number1" : [ 0 ],
+					"1parent[0]::2child[1]::child_number0" : [ 0 ],
+					"1parent[0]::2child[1]::child_number1" : [ 0 ],
+					"1parent[1]::heyparentnum1" : [ 0 ],
+					"1parent[1]::heyparentnum2" : [ 0 ],
+					"1parent[1]::2child[0]::child_number0" : [ 0 ],
+					"1parent[1]::2child[0]::child_number1" : [ 0 ],
+					"1parent[1]::2child[1]::child_number0" : [ 0 ],
+					"1parent[1]::2child[1]::child_number1" : [ 0 ]
+				}
+
+			}
+,
+			"666" : 			{
+				"id" : 666,
+				"data" : 				{
+					"grandparent_num1" : [ 666 ],
+					"grandparent_num2" : [ 666 ],
+					"1parent[0]::supparentnum1" : [ 666 ],
+					"1parent[0]::supparentnum2" : [ 666 ],
+					"1parent[0]::2child[0]::child_number0" : [ 666 ],
+					"1parent[0]::2child[0]::child_number1" : [ 666 ],
+					"1parent[0]::2child[1]::child_number0" : [ 666 ],
+					"1parent[0]::2child[1]::child_number1" : [ 666 ],
+					"1parent[1]::heyparentnum1" : [ 666 ],
+					"1parent[1]::heyparentnum2" : [ 666 ],
+					"1parent[1]::2child[0]::child_number0" : [ 666 ],
+					"1parent[1]::2child[0]::child_number1" : [ 666 ],
+					"1parent[1]::2child[1]::child_number0" : [ 666 ],
+					"1parent[1]::2child[1]::child_number1" : [ 666 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
